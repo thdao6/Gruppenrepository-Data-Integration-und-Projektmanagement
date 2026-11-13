@@ -5,4 +5,4 @@ Teammitglieder:
 * Mirace Ilhan
 * Beyza Koc
 * Ergün Almak
-* [The Ha Dao] (https://github.com/thdao6) - 11523510
+* [The Ha Dao](https://github.com/thdao6) - 11523510
