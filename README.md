@@ -1,4 +1,4 @@
-# Gruppenrepository-Data-Integration-und-Projektmanagement
+# Gruppenrepository-Data-Integration-und-Projektmanagement WS 2026/2027
 Dies ist ein Gruppenrepository für die Module Data Integration und Projektmanagement.  
 Teammitglieder:
 * Melike Bayindir
