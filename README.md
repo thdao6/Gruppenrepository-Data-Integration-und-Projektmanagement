@@ -6,3 +6,5 @@ Teammitglieder:
 * Beyza Koc
 * Ergün Almak
 * [The Ha Dao](https://github.com/thdao6) - 11523510
+  
+Forschungsfrage: "Wie hat KI sich die Arbeitlosigkeit in Deutschland beeinflüsst?"
