@@ -1,5 +1,5 @@
 # Gruppenrepository-Data-Integration-und-Projektmanagement
-Dies ist ein Gruppenrepository für die Module Data Integration und Projeketmanagement.  
+Dies ist ein Gruppenrepository für die Module Data Integration und Projektmanagement.  
 Teammitglieder:
 * Melike Bayindir
 * Mirace Ilhan
