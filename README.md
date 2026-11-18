@@ -3,7 +3,7 @@ Dies ist ein Gruppenrepository für die Module Data Integration und Projektmanag
 Teammitglieder:
 * Melike Bayindir
 * Mirace Ilhan - 11569572
-* Beyza Koc
+* Beyza Koc - 11555683
 * Ergün Almak
 * [The Ha Dao](https://github.com/thdao6) - 11523510
   
